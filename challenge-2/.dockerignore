@@ -1,0 +1,5 @@
+.git
+.dockerignore
+.env
+tabaz/node_modules/
+tabaz/vendor/bundle/
